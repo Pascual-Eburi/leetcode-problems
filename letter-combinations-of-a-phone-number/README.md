@@ -1,5 +1,5 @@
 # JavaScript
-![Alt text](image.png)
+![Alt text](RESULTS/js.png)
 
 # Python 3
-![Alt text](image.png)
+![Alt text](RESULTS/python.png)
